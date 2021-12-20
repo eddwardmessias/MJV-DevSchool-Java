@@ -1,0 +1,55 @@
+DevSchool 
+ 
+Curso de Java realizado pela MJV – Technology & Innovation. Lecionado pelo professor 
+Gleyson Sampaio – Instrutor e Criador de Conteúdos na Digytal.
+
+___________________________
+Aluno: Eddward Messias
+___________________________
+AULA 3 – 16/02/2021
+
+EXERCIO 02
+
+Considerando o exemplo apresentado acima, acrescente no algoritmo a seguinte regra:
+1. Criar uma variável que represente o dado saldo cheque especial com valor atual de 20
+2. Verificar se na tentativa do saque se o valor solicitado for maior que o saldo atual exibir a seguinte mensagem: "Saldo insuficiente! Deseja usar o cheque especial?"
+3. Se a resposta for "S" fazer a regra que valide o valor solicitado comparando com valor atual + valor saldo especial
+
+
+programa {
+funcao inicio() {
+        real saldoAtual = 10
+        real valorSolicitado = 0
+	real chequeEspecial = 20
+	caracter resposta = ""
+        
+        escreva("informe o valor desejado \n")
+        
+        leia(valorSolicitado)
+        
+        se(valorSolicitado > saldoAtual){
+            
+        escreva("Saldo insuficiente! Deseja usar o cheque especial?")
+	escreva("Digite s - para sim")
+	escreva("Digite n - para não")
+	leia(resposta)
+
+		se(resposta == s && valorSolicitado <= saldoAtual + cheque especial) {
+	
+			
+   	           saldoAtual = saldoAtual + chequeEspecial - valorSolicitado
+    	           escreva("saque realizado com sucesso!")
+		
+		}senao{
+      		   escreva("serviço finalizado") 
+		} 
+        
+        }senao{
+	    
+            saldoAtual = saldoAtual - valorSolicitado
+            escreva("saque realizado com sucesso!")
+	    		            
+        }
+          escreva("Seu novo saldo é ", saldoAtual)
+}
+}
