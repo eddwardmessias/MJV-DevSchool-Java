@@ -7,7 +7,42 @@
   </h2>  
   
 # Semana 1 | Aula 01 - 13/12/2021 
-De acordo
+## - Conteúdos apresentados:
+  
+Apresentação. Reflexões acerta da Razão de ser Programador. A compreensão da teoria por meio de fundamentos/conceitos. A importância e potencialidade do git como ferramenta diária e imprescritível para o desenvolvedor principalmente no âmbito corporativo. O aprendizado de suas funcionalidades, seus comandos iniciais, suas configurações, bem como instruções a serem realizadas a partir da criação do diretório como aprendizagem e exercício prático.
+</br>  
+## - Comandos executados:
+
+``` 
+git init
+```
+Cria o repositório (local) - auditar/backup.
+``` 
+git status
+```
+Faz a verificação de arquivos do diretório.
+``` 
+git add .
+```
+Realiza a inclusão de arquivos novos e modificados, assim como removidos no diretório.
+``` 
+git commit -m " *finalidade do commit* "
+```
+Realiza o commit conjuntamente com uma mensagem.
+``` 
+git log
+```
+Mostra o histórico de commits.
+```
+git push
+```
+Envia, compartilha arquvivos do diretório(local) ao repositório.
+
+## - Exercícios:
+
+1. Atividade sobre pesquisa (grupo).
+2. Criação de diretório e insersão de 2 arquivos .txt (Nome | Contato)
+
   
 # Semana 1 | Aula 02 - 14/12/2021 
 De acordo  
