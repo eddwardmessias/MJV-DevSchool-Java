@@ -1,0 +1,15 @@
+Git Flow - Aula 14 / 12 / 2021
+
+Exercício 2:
+
+Como esplanado em aula, a ferramenta git juntamente com sistema de controle de versão, exemplo o github é algo imprescritível em um projeto na vida de um programador. Para nós alunos, dominar essa tecnologia fará um diferencial imenso em nosso crescimento.Conhecer da teoria das ramificações do git flow, torna-se imaginavel de como como funciona as diretrizes do Desenvolvedor em um ambiente corporativo.
+
+Uma curiosidade que descobri sobre o Github: 
+GitHub coloca projetos em cápsula do tempo no arquipélago norueguês de Svalbard e espera que ela dure mil anos, são 21 TB de dados do repositório foram compactados em arquivos TAR e serão transformados em QR codes.A captura de repositórios públicos ativos e de inativos “significativos” foram tirada em 2 de fevereiro de 2020, trabalho de centenas de milhares desenvolvedores preservado nesse local.
+
+
+Referências bibliográficas 
+https://www.youtube.com/watch?v=fzI9FNjXQ0o
+https://gizmodo.uol.com.br/github-capsula-do-tempo-artico/
+
+
