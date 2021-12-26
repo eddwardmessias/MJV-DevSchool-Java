@@ -4,16 +4,38 @@
   
 <h2 align="center">
   Curso de Java realizado pela MJV - Technology &amp; Innovation. Lecionado pelo professor Gleyson Sampaio - Instrutor e Criador de Conteúdos na Digytal.
-  </h2>  
+  </h2> 
   
-# Semana 1 | Aula 01 - 13/12/2021 
+<h1 align="center">
+  Sumário:
+  </h1>   
+  
+### Semana 01 - 13/12/21 a 17/12/21
+  - [Aula 1 - Git e GitHub](#aula01)
+  - [Aula 2 - Git e GitHub](#aula02)
+  - [Aula 3 - Git e GitHub](#aula03)
+  - [Aula 4 - Git e GitHub](#aula04)
+### Semana 02 - 20/12/21 a 21/12/21
+  - [Aula 5 - Git e GitHub](#aula05)
+  - [Aula 6 - Git e GitHub](#aula06)
+### Semana 03 - 27/12/21 a 29/12/21
+  - [Aula 7 - Git e GitHub](#aula07)
+  - [Aula 8 - Git e GitHub](#aula08)
+  - [Aula 9 - Git e GitHub](#aula09)
 
-## 1. Conteúdos apresentados:
+*******
+  
+<div id='aula01'/>
+<h1 align="center">
+  Semana 1 | Aula 01 - 13/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
   
 Apresentação. Reflexões acerta da Razão de ser Programador. A compreensão da teoria por meio de fundamentos/conceitos. A importância e potencialidade do git como ferramenta diária e imprescritível para o desenvolvedor principalmente no âmbito corporativo. O aprendizado de suas funcionalidades, seus comandos iniciais, suas configurações, bem como instruções a serem realizadas a partir da criação do diretório como aprendizagem e exercício prático. Gignore.
 
 
-## 2. Comandos executados:
+### 2. Comandos executados:
 
 ``` 
 git init
@@ -44,28 +66,34 @@ touch .gitignore
 ```
 Comando que ignora arquvivos e pastas para ser ignorado pelo git.
 
-## 3. Exercícios:
+### 3. Exercícios:
 
-### 3.1 Introdução
-Exercício 1 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01
+#### 3.1 Introdução
+- Exercício 1 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01
 
-### 3.2 Git
-Exercício 1 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01  
-Criação de diretório e insersão de 2 arquivos .txt (Nome | Contato).
+#### 3.2 Git
+- Exercício 1 - Criação de diretório e insersão de 2 arquivos .txt (Nome | Contato). </br>
+  Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01  
 
-## 4 Material de apoio
-Site: https://glysns.gitbook.io/git-e-github/
-</br>
-Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01 
+
+### 4. Material de apoio:
+- Site: https://glysns.gitbook.io/git-e-github/
+- Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01 
+
+*******
   
-# Semana 1 | Aula 02 - 14/12/2021 
-## 1. Conteúdos apresentados:
+<div id='aula02'/>
+<h1 align="center">
+  Semana 1 | Aula 02 - 14/12/2021 
+</h1> 
+  
+### 1. Conteúdos apresentados:
 
 Continuação aula 01. Configuração de usuário git. Demonstração e criação de repositório no GitHub. Noções de convenções e boas práticas atreladas ao git/github. Explicação e aplicações de autenticação GitHub, clone de repositório, branch, merge, pull request e readme.md.
 
-## 2. Comandos executados:
+### 2. Comandos executados:
 
-### 2.1 Configurar identificação Git 
+#### 2.1 Configurar identificação Git 
 ```
 git config --global user.name "Eddward Messias"
 git config --global user.email eddward.messias@hotmail.com
@@ -88,13 +116,13 @@ git push -u origin
 ```
 Envia arquivos do diretório local ao repositório remoto.
 
-### 2.1.2 Clonar um repositório: 
+#### 2.1.2 Clonar um repositório: 
 ```
 git clone url.git
 ```
 Clona repositório remoto para diretório local.
 
-### 2.2 Criar e mudar branch: 
+#### 2.2 Criar e mudar branch: 
 ```
 git branch NomeDesejado
 ```
@@ -104,34 +132,25 @@ git checkout NomeBranch ou git checkout -b NomeBranch
 ```
 Troca para branch selecionada e no segundo caso troca e cria ao mesmo tempo uma nova branch.
 
-### 2.3 Unificação/Mesclagem de alterações realizadas em branchs - MERGE: 
+#### 2.3 Unificação/Mesclagem de alterações realizadas em branchs - MERGE: 
 ```
 git  merge  NomeDaBranch
 ```
 Na branch principal "main", utiliza esse comando para unificar/mesclar alterações realizadas no repositório.
 
-## 3. Exercícios:
+### 3. Exercícios:
 
-### 3.1 GitHub
-Exercício 1 e 2 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA
+#### 3.1 GitHub
+- Exercício 1 e 2 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA
 
-### 3.2 GitFlow
-Exercício 1 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA/pulls?q=is%3Apr+is%3Aclosed
-</br>
-Exercício 2 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
+#### 3.2 GitFlow
+- Exercício 1 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA/pulls?q=is%3Apr+is%3Aclosed
+- Exercício 2 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
 
-## 4. Material de apoio
-Site: https://glysns.gitbook.io/git-e-github/
-</br>
-Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
-</br>
-Referências Bibliográficas da Obs - https://blog.curso-r.com/posts/2020-07-27-github-main-branch/ | https://programadoresbrasil.com.br/2020/09/github-substituira-branch-master-por-branch-main-a-partir-de-outubro/?amp
-  
-# Semana 1 | Aula 03 - 16/12/2021 
-De acordo    
-  
-# Semana 1 | Aula 04 - 17/12/2021 
-De acordo  
-  
-# Semana 2 | Aula 05 - 20/12/2021 
-De acordo      
+### 4. Material de apoio:
+- Site: https://glysns.gitbook.io/git-e-github/
+- Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
+- Referências Bibliográficas da Obs - https://blog.curso-r.com/posts/2020-07-27-github-main-branch/ | https://programadoresbrasil.com.br/2020/09/github-substituira-branch-master-por-branch-main-a-partir-de-outubro/?amp
+
+*******
+ 
