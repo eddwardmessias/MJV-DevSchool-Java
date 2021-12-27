@@ -15,41 +15,41 @@ Considerando o exemplo apresentado acima, acrescente no algoritmo a seguinte reg
 2. Verificar se na tentativa do saque se o valor solicitado for maior que o saldo atual exibir a seguinte mensagem: "Saldo insuficiente! Deseja usar o cheque especial?"
 3. Se a resposta for "S" fazer a regra que valide o valor solicitado comparando com valor atual + valor saldo especial
 
+Código refatorado em aula:
 
 programa {
 funcao inicio() {
-        real saldoAtual = 10
-        real valorSolicitado = 0
-	real chequeEspecial = 20
-	caracter resposta = ""
+        real saldoAtual = 10.0
+        real valorSolicitado = 0.0
+        real chequeEspecial = 20.0
+        cadeia resposta = "N"
         
         escreva("informe o valor desejado \n")
         
         leia(valorSolicitado)
         
         se(valorSolicitado > saldoAtual){
-            
-        escreva("Saldo insuficiente! Deseja usar o cheque especial?")
-	escreva("Digite s - para sim")
-	escreva("Digite n - para não")
-	leia(resposta)
 
-		se(resposta == s && valorSolicitado <= saldoAtual + cheque especial) {
-	
-			
-   	           saldoAtual = saldoAtual + chequeEspecial - valorSolicitado
-    	           escreva("saque realizado com sucesso!")
-		
-		}senao{
-      		   escreva("serviço finalizado") 
-		} 
+        	se(valorSolicitado > saldoAtual + chequeEspecial){
+        		
+            escreva("saldo insuficiente!\n Você tem cheque especial de ", chequeEspecial)
+            
+        	}senao{
+        		escreva("Saldo insuficiente! Deseja usar o cheque especial?")
+        		leia(resposta)
+        		se(resposta == "S" ou resposta =="s"){
+        			chequeEspecial = (saldoAtual + chequeEspecial) - valorSolicitado
+        			saldoAtual = 0.0
+        		}
+        	}
+            
         
         }senao{
-	    
+        
             saldoAtual = saldoAtual - valorSolicitado
-            escreva("saque realizado com sucesso!")
-	    		            
+            escreva("saque realizado com sucesso!\n")        
         }
-          escreva("Seu novo saldo é ", saldoAtual)
+          escreva("Seu novo saldo é ", saldoAtual, "\n")
+          escreva("Seu cheque especial é de ", chequeEspecial)
 }
 }
