@@ -13,8 +13,8 @@
 ### Semana 01 - 13/12/21 a 17/12/21
   - [Aula 1 - Git](#aula01)
   - [Aula 2 - GitHub e GitFlow](#aula02)
-  - [Aula 3 - Git e GitHub](#aula03)
-  - [Aula 4 - Git e GitHub](#aula04)
+  - [Aula 3 - Fundamentos da Linguagem Java](#aula03)
+  - [Aula 4 - Fundamentos da Programação Orientada a Objetos](#aula04)
 ### Semana 02 - 20/12/21 a 21/12/21
   - [Aula 5 - Git e GitHub](#aula05)
   - [Aula 6 - Git e GitHub](#aula06)
@@ -32,7 +32,7 @@
   
 ### 1. Conteúdos apresentados:
   
-Apresentação. Reflexões acerta da Razão de ser Programador. A compreensão da teoria por meio de fundamentos/conceitos. A importância e potencialidade do git como ferramenta diária e imprescritível para o desenvolvedor principalmente no âmbito corporativo. O aprendizado de suas funcionalidades, seus comandos iniciais, suas configurações, bem como instruções a serem realizadas a partir da criação do diretório como aprendizagem e exercício prático. Gignore.
+Apresentação. Reflexões acerta da Razão de ser Programador. A compreensão da teoria por meio de fundamentos/conceitos. A importância e potencialidade do git como ferramenta diária e imprescritível para o desenvolvedor principalmente no âmbito corporativo. O aprendizado de suas funcionalidades, seus comandos iniciais, suas configurações, bem como instruções a serem realizadas a partir da criação do diretório como aprendizagem e exercício prático. Gitignore.
 
 
 ### 2. Comandos executados:
@@ -156,12 +156,12 @@ Na branch principal "main", utiliza esse comando para unificar/mesclar alteraç�
 
 <div id='aula03'/>
 <h1 align="center">
-  Semana 1 | Aula 03 - 15/12/2021
+  Semana 1 | Aula 03 - 16/12/2021
 </h1> 
   
 ### 1. Conteúdos apresentados:
 
-História do Java. Principais Caracteristicas. Plataformas do Java. Diferença JDK e JRE. Algoritimo. Instalação e Configuração Eclipse EE IDE. Introdução a Classes.
+História e Fundamentos da Linguagem Java. Principais Caracteristicas. Plataformas Java. Diferença JDK e JRE. Algoritmos. Instalação e Configuração Eclipse EE IDE. Introdução a Classes.
 
 ### 2. Comandos executados:
 
@@ -171,10 +171,59 @@ História do Java. Principais Caracteristicas. Plataformas do Java. Diferença J
   Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-03/Exercio01-Fundamentos-Java.pdf
 - Exercício 2 -Lógica de programação em Pseudo Código(Portugol).</br>
   Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-03/Execicio2-Portugol.txt
-  
+
 ### 4. Material de apoio:
 - Gitbook Professor Gleyson: https://glysns.gitbook.io/java/
 - Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-03 
 
 *******
+
+<div id='aula04'/>
+<h1 align="center">
+  Semana 1 | Aula 04 - 17/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Configuração Workspace. Convenção e boas práticas aplicadas a criação de Classes (CamelCase). Finalidade Classe. Contratos dos Métodos. Palavras Reservadas. Tipos Primitivos. Constantes. Distinção de Classes de Domínio/Modelo, Negócios, Repositório. Fundamentos da Programação Orientada a Objetos.
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício 1 - Declaração de variáveis e seus tipos.</br>
+  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04/ExercicioJava-Aula4/aula-java-4-exercicio1 ;
+  https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-04/Exercicio01-Aula4.pdf
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/orientacao-a-objetos
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04 
+
+*******
+
+<div id='aula05'/>
+<h1 align="center">
+  Semana 1 | Aula 05 - 20/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Configuração Workspace. Convenção e boas práticas aplicadas a criação de Classes (CamelCase). Finalidade Classe. Contratos dos Métodos. Palavras Reservadas. Tipos Primitivos. Constantes. Distinção de Classes de Domínio/Modelo, Negócios, Repositório. Fundamentos da Programação Orientada a Objetos.
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício 1 - Declaração de variáveis e seus tipos.</br>
+  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04/ExercicioJava-Aula4/aula-java-4-exercicio1 ;
+  https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-04/Exercicio01-Aula4.pdf
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/orientacao-a-objetos
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04 
+
+*******
+ 
  
