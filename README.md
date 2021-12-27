@@ -11,8 +11,8 @@
   </h1>   
   
 ### Semana 01 - 13/12/21 a 17/12/21
-  - [Aula 1 - Git e GitHub](#aula01)
-  - [Aula 2 - Git e GitHub](#aula02)
+  - [Aula 1 - Git](#aula01)
+  - [Aula 2 - GitHub e GitFlow](#aula02)
   - [Aula 3 - Git e GitHub](#aula03)
   - [Aula 4 - Git e GitHub](#aula04)
 ### Semana 02 - 20/12/21 a 21/12/21
@@ -69,15 +69,15 @@ Comando que ignora arquvivos e pastas para ser ignorado pelo git.
 ### 3. Exercícios:
 
 #### 3.1 Introdução
-- Exercício 1 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01
+- Exercício 1 - Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01
 
 #### 3.2 Git
 - Exercício 1 - Criação de diretório e insersão de 2 arquivos .txt (Nome | Contato). </br>
-  Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01  
+  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01  
 
 
 ### 4. Material de apoio:
-- Site: https://glysns.gitbook.io/git-e-github/
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/git-e-github/
 - Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01 
 
 *******
@@ -141,16 +141,40 @@ Na branch principal "main", utiliza esse comando para unificar/mesclar alteraç�
 ### 3. Exercícios:
 
 #### 3.1 GitHub
-- Exercício 1 e 2 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA
+- Exercício 1 e 2 - Disponível no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA
 
 #### 3.2 GitFlow
-- Exercício 1 - Disponivel no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA/pulls?q=is%3Apr+is%3Aclosed
-- Exercício 2 - Disponivel em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
+- Exercício 1 - Disponível no repositório Grupo 01 - https://github.com/DomBarbosa8/MJV-JAVA/pulls?q=is%3Apr+is%3Aclosed
+- Exercício 2 - Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
 
 ### 4. Material de apoio:
-- Site: https://glysns.gitbook.io/git-e-github/
-- Revisão escrita em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
-- Referências Bibliográficas da Obs - https://blog.curso-r.com/posts/2020-07-27-github-main-branch/ | https://programadoresbrasil.com.br/2020/09/github-substituira-branch-master-por-branch-main-a-partir-de-outubro/?amp
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/git-e-github/git-hub
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-02
+- Referências Bibliográficas da Obs: https://blog.curso-r.com/posts/2020-07-27-github-main-branch/ ; https://programadoresbrasil.com.br/2020/09/github-substituira-branch-master-por-branch-main-a-partir-de-outubro/?amp
+
+*******
+
+<div id='aula03'/>
+<h1 align="center">
+  Semana 1 | Aula 03 - 15/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+História do Java. Principais Caracteristicas. Plataformas do Java. Diferença JDK e JRE. Algoritimo. Instalação e Configuração Eclipse EE IDE. Introdução a Classes.
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício 1 - Pesquisa e resumo sobre plataformas e evolução do Java.</br>
+  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-03/Exercio01-Fundamentos-Java.pdf
+- Exercício 2 -Lógica de programação em Pseudo Código(Portugol).</br>
+  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-03/Execicio2-Portugol.txt
+  
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-03 
 
 *******
  
