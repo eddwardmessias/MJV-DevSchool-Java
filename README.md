@@ -16,10 +16,10 @@
   - [Aula 3 - Fundamentos da Linguagem Java](#aula03)
   - [Aula 4 - Fundamentos da Programação Orientada a Objetos](#aula04)
 ### Semana 02 - 20/12/21 a 21/12/21
-  - [Aula 5 - Git e GitHub](#aula05)
-  - [Aula 6 - Git e GitHub](#aula06)
-### Semana 03 - 27/12/21 a 29/12/21
-  - [Aula 7 - Git e GitHub](#aula07)
+  - [Aula 5 - Programação Orientada a Objetos & Padrão JavaBeans](#aula05)
+  - [Aula 6 - Fundamentos das Collections](#aula06)
+### Semana 03 - 27/12/21 a 30/12/21
+  - [Aula 7 - Apresentação de Grupos](#aula07)
   - [Aula 8 - Git e GitHub](#aula08)
   - [Aula 9 - Git e GitHub](#aula09)
 
@@ -60,11 +60,11 @@ Mostra o histórico de commits.
 ```
 git push
 ```
-Envia, compartilha arquvivos do diretório(local) ao repositório.
+Envia, compartilha arquivos do diretório(local) ao repositório.
 ```
 touch .gitignore
 ```
-Comando que ignora arquvivos e pastas para ser ignorado pelo git.
+Comando que ignora arquivos e pastas para ser ignorado pelo git.
 
 ### 3. Exercícios:
 
@@ -72,7 +72,7 @@ Comando que ignora arquvivos e pastas para ser ignorado pelo git.
 - Exercício 1 - Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01
 
 #### 3.2 Git
-- Exercício 1 - Criação de diretório e insersão de 2 arquivos .txt (Nome | Contato). </br>
+- Exercício 1 - Criação de diretório e inserção de 2 arquivos .txt (Nome | Contato). </br>
   Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-01  
 
 
@@ -161,7 +161,7 @@ Na branch principal "main", utiliza esse comando para unificar/mesclar alteraç�
   
 ### 1. Conteúdos apresentados:
 
-História e Fundamentos da Linguagem Java. Principais Caracteristicas. Plataformas Java. Diferença JDK e JRE. Algoritmos. Instalação e Configuração Eclipse EE IDE. Introdução a Classes.
+História e Fundamentos da Linguagem Java. Principais Características. Plataformas Java. Diferença JDK e JRE. Algoritmos. Instalação e Configuração Eclipse EE IDE. Introdução a Classes.
 
 ### 2. Comandos executados:
 
@@ -204,26 +204,90 @@ Configuração Workspace. Convenção e boas práticas aplicadas a criação de 
 
 <div id='aula05'/>
 <h1 align="center">
-  Semana 1 | Aula 05 - 20/12/2021
+  Semana 2 | Aula 05 - 20/12/2021
 </h1> 
   
 ### 1. Conteúdos apresentados:
 
-Configuração Workspace. Convenção e boas práticas aplicadas a criação de Classes (CamelCase). Finalidade Classe. Contratos dos Métodos. Palavras Reservadas. Tipos Primitivos. Constantes. Distinção de Classes de Domínio/Modelo, Negócios, Repositório. Fundamentos da Programação Orientada a Objetos.
+Programação Orientada a Objetos: Abstração, modificadores de acesso, métodos getters e setters, construtores. Padrão JavaBeans. Debug. 
 
 ### 2. Comandos executados:
 
 
 ### 3. Exercícios:
-- Exercício 1 - Declaração de variáveis e seus tipos.</br>
-  Disponível em repositório próprio - https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04/ExercicioJava-Aula4/aula-java-4-exercicio1 ;
-  https://github.com/eddwardmessias/MJV-DevSchool-Java/blob/main/Semana-1/Aula-04/Exercicio01-Aula4.pdf
+- Exercício - Atividade realizada em grupo adicionando funcionalidades ao BankApplication.</br>
+  Disponível em repositório do Gustavo (BankApp) - https://github.com/Gustavo-lima-rocha-de-sousa/cursojava-mjv/tree/master/Bank/src/bankapp
 
 
 ### 4. Material de apoio:
-- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/orientacao-a-objetos
-- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-04 
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
 
 *******
  
+<div id='aula06'/>
+<h1 align="center">
+  Semana 2 | Aula 06 - 21/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Gerenciamento JavaBeans. Fundamentos Estruturais do Array. Conceitos Collections: List, Set, Queue(Fila), Map. Algoritmos Collections. Dinâmica Inicial Power Classes.
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Breve pesquisa e apresentação sobre as classes: java.lang.String, java.util.StringJoiner, java.lang.StringBuilder.</br>
+  Disponível no repositório do Gustavo(Readme.md) - https://github.com/Gustavo-lima-rocha-de-sousa/PowerClass
+
+
+### 4. Material de apoio:
+- Slide apresentado em aula pelo Professor Gleyson.
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-06 
+
+*******
  
+<div id='aula07'/>
+<h1 align="center">
+  Semana 3 | Aula 07 - 27/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Apresentações dos grupos: 01 | 02 | 03 | 04 | 05 | - Exercício Power Classe: Apresentação das principais classes da linguagem Java.
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Pesquisa, apresentação e aplicação das calsses: java.lang.String, java.util.StringJoiner, java.lang.StringBuilder.</br>
+  Disponível no repositório do Gustavo(Readme.md) - https://github.com/Gustavo-lima-rocha-de-sousa/PowerClass
+
+
+### 4. Material de apoio:
+- Referências bibliográficas dispostas no Readme do projeto.</br>
+  Disponível no repositório do Gustavo(Readme.md) - https://github.com/Gustavo-lima-rocha-de-sousa/PowerClass
+
+*******
+ 
+<div id='aula06'/>
+<h1 align="center">
+  Semana 3 | Aula 06 - 28/12/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Programação Orientada a Objetos: Abstração, modificadores de acesso, métodos getters e setters, construtores. Padrão JavaBeans. Debug. 
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Atividade realizada em grupo adicionando funcionalidades ao BankApplication.</br>
+  Disponível em repositório do Gustavo (BankApp) - https://github.com/Gustavo-lima-rocha-de-sousa/cursojava-mjv/tree/master/Bank/src/bankapp
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
