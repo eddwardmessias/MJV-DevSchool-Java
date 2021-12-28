@@ -1,0 +1,38 @@
+DevSchool 
+ 
+Curso de Java realizado pela MJV – Technology & Innovation. Lecionado pelo professor 
+Gleyson Sampaio – Instrutor e Criador de Conteúdos na Digytal.
+
+___________________________
+Grupo 01: 
+Daniel Santos
+Arthur Kayser
+Lais Costa
+Eddward Messias
+Jonas Souza
+Henrique Cordeiro
+Claudia A
+Gustavo Lima
+___________________________
+AULA 7 – 27/12/2021
+
+O nosso desafio é explorar as principais classes da linguagem Java.
+
+Requisitos
+
+Realizar uma breve descrição da classe em questão;
+
+Apresentar alternativas de instanciação de objetos com contrutor ou metódos singleton;
+
+Apresentar no mínimo 04 métodos mais utilizados destacando o seu contrato (tipo retorno + nome + parâmetros);
+
+Apresentar se alguns dos métodos é sobrecarregado;
+
+Realizar uma demonstração adaptando o uso dos métodos (mínimo 04) em situações do cotidiando (use a imaginação);
+
+Grupo 01
+java.lang.String
+java.util.StringJoiner
+java.lang.StringBuilder
+
+Link de acesso ao repositório: https://github.com/Gustavo-lima-rocha-de-sousa/PowerClass
