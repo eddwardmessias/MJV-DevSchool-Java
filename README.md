@@ -10,19 +10,22 @@
   Sumário:
   </h1>   
   
-### Semana 01 - 13/12/21 a 17/12/21
-  - [Aula 1 - Git](#aula01)
-  - [Aula 2 - GitHub e GitFlow](#aula02)
-  - [Aula 3 - Fundamentos da Linguagem Java](#aula03)
-  - [Aula 4 - Fundamentos da Programação Orientada a Objetos](#aula04)
-### Semana 02 - 20/12/21 a 21/12/21
-  - [Aula 5 - Programação Orientada a Objetos & Padrão JavaBeans](#aula05)
-  - [Aula 6 - Fundamentos das Collections](#aula06)
-### Semana 03 - 27/12/21 a 30/12/21
-  - [Aula 7 - Apresentação de Grupos](#aula07)
-  - [Aula 8 - Git e GitHub](#aula08)
-  - [Aula 9 - Git e GitHub](#aula09)
-
+### Semana 1 - 13/12/21 a 17/12/21
+  - [Aula 01 - Git](#aula01)
+  - [Aula 02 - GitHub e GitFlow](#aula02)
+  - [Aula 03 - Fundamentos da Linguagem Java](#aula03)
+  - [Aula 04 - Fundamentos da Programação Orientada a Objetos](#aula04)
+### Semana 2 - 20/12/21 a 21/12/21
+  - [Aula 05 - Programação Orientada a Objetos & Padrão JavaBeans](#aula05)
+  - [Aula 06 - Fundamentos das Collections](#aula06)
+### Semana 3 - 27/12/21 a 28/12/21
+  - [Aula 07 - Apresentação de Grupos](#aula07)
+  - [Aula 08 - Classes Java](#aula08)
+### Semana 4 - 03/01/22 a 07/01/22  
+  - [Aula 09 - Apresentação e Estruturas Cond. e Fluxo](#aula09)
+  - [Aula 10 - Apresentação e Estruturas Cond. e Fluxo](#aula10)
+  - [Aula 11 - Apresentação e Estruturas Cond. e Fluxo](#aula11)
+  
 *******
   
 <div id='aula01'/>
@@ -271,9 +274,9 @@ Apresentações dos grupos: 01 | 02 | 03 | 04 | 05 | - Exercício Power Classe: 
 
 *******
  
-<div id='aula06'/>
+<div id='aula08'/>
 <h1 align="center">
-  Semana 3 | Aula 06 - 28/12/2021
+  Semana 3 | Aula 08 - 28/12/2021
 </h1> 
   
 ### 1. Conteúdos apresentados:
@@ -291,3 +294,74 @@ Programação Orientada a Objetos: Abstração, modificadores de acesso, método
 ### 4. Material de apoio:
 - Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
 - Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
+
+*******
+
+<div id='aula09'/>
+<h1 align="center">
+  Semana 4 | Aula 09 - 03/01/2022
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Apresentação. Classe Formatter. Estrutras Condicionais. Estrutras de Repetição. 
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Atividade realizada em grupo adicionando funcionalidades ao BankApplication.</br>
+  Disponível em repositório do Gustavo (BankApp) - https://github.com/Gustavo-lima-rocha-de-sousa/cursojava-mjv/tree/master/Bank/src/bankapp
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
+
+*******
+
+<div id='aula10'/>
+<h1 align="center">
+  Semana 4 | Aula 10 - 06/01/2022
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Apresentação. Classe Formatter. Estrutras Condicionais. Estrutras de Repetição. 
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Atividade realizada em grupo adicionando funcionalidades ao BankApplication.</br>
+  Disponível em repositório do Gustavo (BankApp) - https://github.com/Gustavo-lima-rocha-de-sousa/cursojava-mjv/tree/master/Bank/src/bankapp
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
+
+*******
+
+<div id='aula10'/>
+<h1 align="center">
+  Semana 4 | Aula 11 - 07/01/2021
+</h1> 
+  
+### 1. Conteúdos apresentados:
+
+Apresentação. Classe Formatter. Estrutras Condicionais. Estrutras de Repetição. 
+
+### 2. Comandos executados:
+
+
+### 3. Exercícios:
+- Exercício - Atividade realizada em grupo adicionando funcionalidades ao BankApplication.</br>
+  Disponível em repositório do Gustavo (BankApp) - https://github.com/Gustavo-lima-rocha-de-sousa/cursojava-mjv/tree/master/Bank/src/bankapp
+
+
+### 4. Material de apoio:
+- Gitbook Professor Gleyson: https://glysns.gitbook.io/java/fundamentos/java-beans
+- Revisão escrita em repositório próprio: https://github.com/eddwardmessias/MJV-DevSchool-Java/tree/main/Semana-1/Aula-05 
+
+*******
